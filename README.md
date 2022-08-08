@@ -58,7 +58,7 @@ At first I called this the 'Year of implementation', but that could be misleadin
 As seen above only Canada have a year of implementation added. I could see that having this label would require me to go back and update the columns of all countries with the technique implemented.
 
 ### Source of information for further reading
-Adding a link to the source serves to purposes:
+Adding a link to the source serves two purposes:
 1. Validity of the map information
 2. Providing an opportunity for the curious reader to *investigate* further in the sources material.
 
